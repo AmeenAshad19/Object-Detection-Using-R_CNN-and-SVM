@@ -22,6 +22,8 @@
  
  #### Output Image with Bounding Boxes in Test Case:
 
+![image](https://user-images.githubusercontent.com/120790343/219444914-33de093d-2025-4942-83ec-9bce7aa12472.png)
+
  ![image](https://user-images.githubusercontent.com/120790343/219444345-eabb0d97-1276-4281-bf2a-26581f13b1cb.png)
 
 
